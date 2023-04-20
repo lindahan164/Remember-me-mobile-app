@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\imanu\OneDrive\Desktop\work\barcode_project\build\windows\CMakeFiles\1705d24b5b8abf67f7d77700cb930b26\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E7D200D6-4136-340F-BB77-D4D7413726A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\IMANU\ONEDRIVE\DESKTOP\WORK\BARCODE_PROJECT\BUILD\WINDOWS\CMAKEFILES\12B9F1E1C1DF40C6D40AF86A131D4CE8\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
